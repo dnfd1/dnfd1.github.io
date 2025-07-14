@@ -1,22 +1,27 @@
 [
   {
-    "title": "My Cool Skin #1",
-    "image": "images/your-image-goes-here.jpg",
-    "downloadLink": "#"
+    "title": "Chitanda 2025",
+    "image": "images/Chitanda_2025.png",
+    "downloadLink": "skins/Chitanda_2025.osk"
   },
   {
-    "title": "My Awesome Skin #2",
-    "image": "images/your-image-goes-here.jpg",
-    "downloadLink": "#"
+    "title": "Chitanda 2025 Hidden",
+    "image": "images/Chitanda_2025_HD.png",
+    "downloadLink": "skins/Chitanda_2025_HD.osk"
+  },
+ {
+    "title": "Seoul V9 (Long Trail)",
+    "image": "images/Seoul_V9_(Long_Trail).png",
+    "downloadLink": "skins/Seoul_V9_(Long_Trail).osk"
   },
   {
-    "title": "Cute Pastel Skin",
-    "image": "images/your-image-goes-here.jpg",
-    "downloadLink": "#"
+    "title": "Rafis (Yellow Cursor)",
+    "image": "images/Rafis_(Yellow_Cursor).png",
+    "downloadLink": "skins/Rafis_(Yellow_Cursor).osk"
   },
   {
-    "title": "Pro Gamer Skin v3",
-    "image": "images/your-image-goes-here.jpg",
-    "downloadLink": "#"
+    "title": "EZ",
+    "image": "images/EZ.png",
+    "downloadLink": "skins/EZ.osk"
   }
 ]
